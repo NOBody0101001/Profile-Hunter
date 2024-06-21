@@ -1,7 +1,7 @@
 # user-find
 BU ARAÇ NE YAPABİLİR?
 
-• Belirlediğiniz kullanıcı,e-mail adreslerinden arama yapar eğer böyle bir adres varsa ekrana yazdırır.
+• Belirlediğiniz kullanıcı,e-mail adreslerinden arama yapar eğer böyle bir kullanıcı varsa ekrana bulundu & bulunamadı yazdırır.
 
 • ÖZEL ARAMA:
 Bir web sitesi ve kullanıcı adı ister burda olmayan web siteerinde arama yapabilmenizi sağlar
