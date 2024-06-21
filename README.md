@@ -1,5 +1,7 @@
 Son güncelleme tarihi:
-21/06/2024|22:06
+21/06/2024|22:15
+
+Eğer hata alıyorsanız VPN kullanın!
 
 ⚠️GNU Affero Genel Kamu Lisansı v3.0 (AGPL-3.0). Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.⚠️
 
