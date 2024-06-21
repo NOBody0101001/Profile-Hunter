@@ -1,5 +1,5 @@
 Son güncelleme tarihi:
-21/06/2024|22:05
+21/06/2024|22:06
 
 ⚠️GNU Affero Genel Kamu Lisansı v3.0 (AGPL-3.0). Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.⚠️
 
@@ -52,7 +52,7 @@ git clone https://github.com/NOBody0101001/user-find
 user-find'ı çalıştırın:
 
 ```
-python user-find.py
+python find.py
 ```
 
 ## Kullanım
