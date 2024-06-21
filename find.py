@@ -58,7 +58,6 @@ def find_user(username):
 "Facebook": f"https://www.facebook.com/{username}",
 "Evooli": f"https://www.evooli.com/{username}",
 "Upslut": f"https://upslut.com/{username}",
-"Call of Duty": f"https://www.callofduty.com/{username}",
 "Minecraft": f"https://www.minecraft.net/{username}",
 "Telegram": f"https://t.me/{username}",
 "TikTok": f"https://www.tiktok.com/@{username}",
