@@ -47,7 +47,7 @@ pip install requests pyfiglet
 user-find'ı yükleyin:
 
 ```
-https://github.com/NOBody0101001/user-find
+git clone https://github.com/NOBody0101001/user-find
 ```
 user-find'ı çalıştırın:
 
