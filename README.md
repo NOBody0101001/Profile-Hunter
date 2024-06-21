@@ -1,19 +1,27 @@
-# user-find
-BU ARAÇ NE YAPABİLİR?
+## user-finder
 
-• Belirlediğiniz kullanıcı,e-mail adreslerinden arama yapar eğer böyle bir kullanıcı varsa ekrana bulundu & bulunamadı yazdırır.
+user-finder, belirli bir kullanıcı adını veya e-posta adresini farklı platformlarda arayarak bulmayı amaçlayan Python tabanlı bir araçtır. Bu araç, belirli bir kullanıcı adının veya e-posta adresinin mevcut olup olmadığını kontrol etmek için çeşitli web sitelerine HTTP istekleri gönderir.
 
-• ÖZEL ARAMA:
-Bir web sitesi ve kullanıcı adı ister burda olmayan web siteerinde arama yapabilmenizi sağlar
+## Gereksinimler:
 
-• İSTATİSTİKLERİ GÖRÜNTÜLEME
- Toplam aramalar:
- Bulunan kullanıcılar:
- Bulunamayan kullanıcılar
+user-finder'ı çalıştırmak için aşağıdaki Python modüllerini yüklemeniz gerekmektedir:
 
-• LOG SİSTEMİ
-Bulunan kullanıcılar
-Bulunan e-mail'ler
+• requests
+• pyfiglet
+
+Bu modüller, HTTP istekleri göndermek ve ASCII sanatı oluşturmak için kullanılmaktadır.
+
+## Kurulum
+
+• Python Sürümü: Python 3.6 veya üzeri bir sürümünün yüklü olduğundan emin olun.
+
+• Bağımlılıkların Yüklenmesi: Gerekli bağımlılıkları yüklemek için terminal veya komut istemcisinde aşağıdaki komutları çalıştırın:
+
+```
+pip install requests pyfiglet
+```
+user-finder'ı yükleyin:
+
 
 ## Lisans
 
