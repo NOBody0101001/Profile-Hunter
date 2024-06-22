@@ -244,8 +244,8 @@ def main():
     check_dependencies()
     
     config = load_config()
-    print("\033[94m--- 🔭User-Finder Başlatılıyor🔭 ---\033[0m")
-    print(pyfiglet.figlet_format("User-Finder"))
+    print("\033[94m--- 🔭Profile-Hunter Başlatılıyor🔭 ---\033[0m")
+    print(pyfiglet.figlet_format("Profile-Hunter"))
 
     while True:
         print("\033[93mMade by protocolhere\033[0m")
