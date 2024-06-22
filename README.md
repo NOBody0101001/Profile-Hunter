@@ -1,5 +1,5 @@
 Son güncelleme tarihi:
-22/06/2024|09:24
+22/06/2024|09:31
 
 VPN kullanın yoksa çalışmaz!
 
