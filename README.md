@@ -54,6 +54,10 @@ git clone https://github.com/NOBody0101001/user-find
 user-find'ı çalıştırın:
 
 ```
+cd user-find.py
+```
+
+```
 python find.py
 ```
 
