@@ -51,7 +51,7 @@ Profile-Hunter'ı yükleyin:
 ```
 git clone https://github.com/NOBody0101001/Profile-Hunter
 ```
-user-find'ı çalıştırın:
+Profile-Hunter'ı çalıştırın:
 
 ```
 cd Profile-Hunter.py
